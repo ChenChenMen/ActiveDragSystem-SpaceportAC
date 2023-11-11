@@ -1,0 +1,15 @@
+LAUNCH-OPS@2023-11-11-14-53
+0.001:ALTI-RDER:'NoneType' object has no attribute 'altitude'
+0.001:ALTI-RDER:'NoneType' object has no attribute 'altitude'
+0.001:ALTI-RDER:'NoneType' object has no attribute 'altitude'
+0.001:ALTI-RDER:'NoneType' object has no attribute 'altitude'
+0.001:SS-INIT
+ALTI-FAIL-ERR:'int' object has no attribute 'try_lock'
+IMU-FAIL-ERR:'int' object has no attribute 'try_lock'
+ONPAD-ALTISET: 0-False-3
+
+0.001:ALTI-RDER:'NoneType' object has no attribute 'altitude'
+0.001:IMU-RDER:'NoneType' object has no attribute 'acceleration'
+0.001:SS-READ:ALTI-None|ZACC-None|LZAC-None|HEATI-False|HEIMU-False
+0.001:ADS:STATE-State.ON_PAD|KFALT-0.0|FKVEL-0.0
+0.001:COMPLETED-OPS
